@@ -14,7 +14,8 @@
 
 <h1>PandanaLog is a film Photography note taking app</h1>
 
-<a href="/register"><h3>Register Here!</h3></a>
+<a href="/register"><h3>New user? Register Here!</h3></a>
+<a href="/login"><h3>Login Here!</h3></a>
 
 
 </body>
