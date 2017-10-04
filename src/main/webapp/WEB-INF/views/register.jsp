@@ -15,6 +15,15 @@ You made it to the registration!
 
 <h1>Register</h1>
 
+<form>
+    <input type="email" name="email" id="email" placeholder="Email" value="" required>
+    <br>
+    <input type="email" name="email" id="email" placeholder="Reenter Email" value="" required>
+    <br>
+
+
+
+</form>
 
 
 </body>
