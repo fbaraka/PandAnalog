@@ -8,11 +8,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>THE TEMPLATE</title>
+    <title>PandanaLog Film Notes</title>
 </head>
 <body>
 
-${message}
+<h1>PandanaLog is a film Photography note taking app</h1>
+
+<a href="/register"><h3>Register Here!</h3></a>
+
 
 </body>
 </html>

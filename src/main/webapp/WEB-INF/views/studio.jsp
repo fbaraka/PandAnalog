@@ -12,5 +12,11 @@
 </head>
 <body>
 
+<h1>Studio</h1>
+
+<a href="?????">Film</a>
+<a href="?????">Gear</a>
+<a href="?????">Reports</a>
+
 </body>
 </html>

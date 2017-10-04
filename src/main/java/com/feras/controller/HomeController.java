@@ -14,4 +14,12 @@ public class HomeController {
                 ModelAndView("welcome","message","Hello World");
 
     }
+
+    @RequestMapping("/register")
+
+    public String registration()
+    {
+        return "register";
+
+    }
 }
