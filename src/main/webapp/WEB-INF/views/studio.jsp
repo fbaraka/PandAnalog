@@ -14,9 +14,9 @@
 
 <h1>Studio</h1>
 
-<a href="?????">Film</a>
-<a href="?????">Gear</a>
-<a href="?????">Reports</a>
+<a href="/filmlibrary">Film</a>
+<a href="/gearcloset">Gear</a>
+<a href="/reports">Reports</a>
 
 </body>
 </html>
